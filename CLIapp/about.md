@@ -1,0 +1,1 @@
+CLI application that takes a URL and a CSS selector arguments and prints the text content of the element that matches the selector.
